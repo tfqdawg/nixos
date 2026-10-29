@@ -5,7 +5,7 @@
 </p>
 
 - Idle memory usage ~670MB.
-- Total size ~10.7GB.
+- Total size ~12.9GB.
 
 #### 1.0 Install.
 
