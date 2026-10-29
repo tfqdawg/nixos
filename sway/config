@@ -129,7 +129,7 @@
   mouse_warping container
 
   # appearance.
-  gaps inner 6
+  gaps inner 5
   default_border none
   default_floating_border none
   smart_borders on

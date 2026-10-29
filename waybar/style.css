@@ -18,7 +18,7 @@
 
 #custom-logo{
   color: @steel;
-  margin-left: 6px;
+  margin-left: 5px;
 }
 
 #workspaces button label{
@@ -81,7 +81,7 @@
 #custom-clock{
   color: @gold;
   border-bottom: 2px solid @gold;
-  margin-right: 6px;
+  margin-right: 5px;
 }
 
 tooltip{
