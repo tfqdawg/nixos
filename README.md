@@ -4,7 +4,10 @@
 <img src="preview.png" alt="preview">
 </p>
 
-#### _1.0 Install._
+- Idle memory usage ~670MB.
+- Total size ~10.7GB.
+
+#### 1.0 Install.
 
 1. Install NixOS (no desktop).
 2. Connect to internet via `nmtui`.
@@ -29,7 +32,7 @@ cp /etc/nixos/hardware-configuration.nix /home/$USER/nixos/system/hardware-confi
 8. Rebuild system using `sudo nixos-rebuild switch --flake .#USERNAME`.
 9. Re-enable imports after system is successfully installed.
 
-#### _2.0 Flatpak._
+#### 2.0 Flatpak.
 ```bash
 # flathub remote
 flatpak remote-add --if-not-exists flathub https://dl.flathub.org/repo/flathub.flatpakrepo
